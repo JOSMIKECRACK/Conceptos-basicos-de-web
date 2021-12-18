@@ -1,0 +1,37 @@
++{
+	`padding: 0;
+	margin: 0;
+}
+h1 {
+	text-align: center;
+	background-color: ;
+	color: darkred;
+	padding: 30px;
+}
+nav ul{
+	background-color: #478c46;
+	width: 100%;
+	list-style-type: none;
+	text-align: center;
+}
+nav li {
+	display: inline-flex;
+}
+nav a {
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+	width: 150px;
+}
+nav li:hover {
+	background-color: palevioletred;
+}
+body {
+	margin: 0;
+	min-height: 100vh;
+	background-image: url(https://www.xtrafondos.com/wallpapers/vertical/noche-en-las-montanas-con-planetas-de-fondo-7980.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
